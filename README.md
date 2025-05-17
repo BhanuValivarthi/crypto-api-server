@@ -12,3 +12,5 @@ Hi Sir,Mam
   This are the example URL for the cryptocoin data :
   1.https://crypto-api-server-gmqv.onrender.com/deviation?coin=bitcoin
   2.https://crypto-api-server-gmqv.onrender.com/stats?coin=bitcoin
+
+Note: Sometimes there is a Internal server error when opening api.I think it is a problem in render.By trying mutlitple times it is solving.
