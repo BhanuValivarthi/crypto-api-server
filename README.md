@@ -14,3 +14,5 @@ Hi Sir,Mam
   2.https://crypto-api-server-gmqv.onrender.com/stats?coin=bitcoin
 
 Note: Sometimes there is a Internal server error when opening api.I think it is a problem in render.By trying mutlitple times it is solving.
+
+Thank You.
