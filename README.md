@@ -13,6 +13,6 @@ Hi Sir,Mam
   1.https://crypto-api-server-gmqv.onrender.com/deviation?coin=bitcoin
   2.https://crypto-api-server-gmqv.onrender.com/stats?coin=bitcoin
 
-Note: Sometimes there is a Internal server error when opening api.I think it is a problem in render.By trying mutlitple times it is solving.
+Note: Sometimes there is a Internal server error when opening api /stats.Because of shared ip address in render.Please try multiple times.It is working properly in localhost.
 
 Thank You.
